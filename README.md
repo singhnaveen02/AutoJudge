@@ -274,7 +274,7 @@ Complete dataset with 4,112 problems:
 - 8.4 MB file size
 - Includes all text fields and difficulty labels
 
-### `report.md`
+### `AutoJudge Project Report.pdf`
 Comprehensive 8+ page project report including:
 - Problem statement and motivation
 - Dataset description and statistics
