@@ -85,14 +85,16 @@ The application will open in your browser at `http://localhost:8501`
 ## 🏗️ Project Structure
 
 ```
-autojudge/
-├── AutoJudge.ipynb                  # Complete Jupyter notebook with analysis
-├── app.py                           # Streamlit web application
-├── autojudge_models.pkl             # Trained models and preprocessors (0.41 MB)
-├── problems_data.jsonl              # Dataset with 4,112 problems
-├── requirements.txt                 # Python dependencies
-├── README.md                        # This file
-└── AutoJudge Project Report.pdf
+AutoJudge/
+├── README.md
+├── requirements.txt
+├── app.py
+├── problems_data.jsonl
+├── autojudge_models.pkl
+├── AutoJudge.ipynb
+├── AutoJudge_Project_Report.pdf
+└── demo_video_link
+
 
 ```
 
