@@ -90,7 +90,7 @@ autojudge/
 ├── problems_data.jsonl              # Dataset with 4,112 problems
 ├── requirements.txt                 # Python dependencies
 ├── README.md                        # This file
-└── report.pdf
+└── AutoJudge Project Report.pdf
 
 ```
 
