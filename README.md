@@ -2,7 +2,6 @@
 
 > An intelligent machine learning system that automatically predicts the difficulty of competitive programming problems based on textual descriptions.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Model Accuracy](https://img.shields.io/badge/accuracy-52.37%25-brightgreen.svg)
 ![Dataset](https://img.shields.io/badge/dataset-4112%20problems-orange.svg)
