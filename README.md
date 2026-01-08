@@ -6,6 +6,9 @@
 ![Model Accuracy](https://img.shields.io/badge/accuracy-52.37%25-brightgreen.svg)
 ![Dataset](https://img.shields.io/badge/dataset-4112%20problems-orange.svg)
 
+### DEMO VIDEO LINK
+ 🔗 https://drive.google.com/file/d/1QnajMguOVEdRzaNxtkJ8TzxwOxOb_NdL/view?usp=sharing
+
 ## 🎯 Overview
 
 AutoJudge is a comprehensive machine learning solution that predicts competitive programming problem difficulty from problem descriptions. The system performs **dual-task learning**:
